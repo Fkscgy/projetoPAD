@@ -1,0 +1,44 @@
+.App h1{
+  text-align: center;
+  color: green;
+}
+.App {
+  background-color: darkgray;
+}
+
+.Container,.Equipe {
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+  justify-content: space-around;
+}
+.Sinopse, .Jogabilidade, .History{
+  width:30%;
+  text-align: justify;
+  padding: 1rem;
+  border-radius: 3rem;
+  background-color: aliceblue;
+}
+.Multimidia, .Programacao {
+  width:fit-content;
+  text-align:center;
+  padding: 1rem;
+  border-radius: 3rem;
+  background-color:gray;
+}
+.Multimidia, .Programacao h3{
+  text-align: center;
+}
+.Credits h2{
+  text-align: center;
+}
+
+footer {
+  background-color: gray;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content:space-around;
+}
