@@ -1,56 +1,16 @@
-.Title{
-  text-align: center;
-}
 .App {
   background-color: darkgray;
+  text-align: center;
 }
 
-.Container,.Equipe, .Enemies {
+.Infos,.Equipe, .Enemies {
   display: flex;
   flex-direction: row;
   margin: 1rem;
   justify-content: space-around;
 }
-.Sinopse, .Jogabilidade, .History, .Carro,.Lata{
-  text-align: justify;
-  padding: 1rem;
-  border-radius: 3rem;
-}
-.Carro,.Lata{
-  width:30%;
-  background-color:lightslategrey;
-  height:fit-content;
-}
-.Sinopse, .Jogabilidade, .History{
-  width:30%;
-  background-color: aliceblue;
-}
-.Carro img {
-  height: 50%;
-  width: 50%;
-}
-.Lata img {
-  height: 50%;
-  width: 50%;
-}
-.Multimidia, .Programacao {
-  width:fit-content;
-  text-align:center;
-  padding: 1rem;
-  border-radius: 3rem;
-  background-color:gray;
-}
-.Multimidia, .Programacao h3{
-  text-align: center;
-}
-.Credits h2{
-  text-align: center;
-}
-
-footer {
-  background-color: gray;
-}
 .footer {
+  background-color: gray;
   display: flex;
   flex-direction: row;
   text-align: center;

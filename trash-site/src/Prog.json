@@ -1,0 +1,26 @@
+[
+    {
+        "nome":"Carlos Mário",
+        "contato":"carlos.almeida@nave.org.br"
+    },
+    {
+        "nome":"Eduardo Moraes",
+        "contato":"eduardo.moraes@nave.org.br"
+    },
+    {
+        "nome":"Guilherme Cândido",
+        "contato":"guilherme.candido@nave.org.br"
+    },
+    {
+        "nome":"Ibson Luiz",
+        "contato":"ibson.candido@nave.org.br"
+    },
+    {
+        "nome":"Matheus Ferreira",
+        "contato":"matheus.ferreira@nave.org.br"
+    },
+    {
+        "nome":"Saulo Costa",
+        "contato":"saulo.costa@nave.org.br"
+    }
+]
